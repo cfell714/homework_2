@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">homework_2</string>
+    <string name="button_main">Next Page!</string>
+
+    <string name="activity_second">Second Activity</string>
+    <string name="activity_third">Third Activity</string>
+    <string name="activity_fourth">Fourth Activity</string>
+
+    <string name="textView_to">to</string>
+    <string name="textView_brewed">Brewed:</string>
+
+    <string name="button_second">Go!</string>
+
+</resources>
