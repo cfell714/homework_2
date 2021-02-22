@@ -41,16 +41,17 @@
 
                     <TextView
                         android:id="@+id/textView_abvFourth"
-                        android:layout_width="214dp"
-                        android:layout_height="61dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
                         android:gravity="center"
                         android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/textView_firstBrewedFourth"
-                        android:layout_width="192dp"
+                        android:layout_width="267dp"
                         android:layout_height="match_parent"
-                        android:gravity="center" />
+                        android:gravity="center"
+                        android:textSize="18sp" />
                 </LinearLayout>
 
                 <ImageView
